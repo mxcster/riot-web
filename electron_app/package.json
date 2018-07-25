@@ -1,6 +1,6 @@
 {
   "name": "riot-web",
-  "productName": "Riot",
+  "productName": "Riot-fork",
   "main": "src/electron-main.js",
   "version": "0.15.7",
   "description": "A feature-rich client for Matrix.org",
